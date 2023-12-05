@@ -40,7 +40,7 @@ int main() {
             << dreamCar.getColor() << " "
             << dreamCar.getYear() << " "
             << dreamCar.getMake() << " "
-            << dreamCar.getModel() << " would be awesome! I want one too.\n";
+            << dreamCar.getModel() << " is awesome! I want one too.\n";
 
         cout << "\nAnother dream car? (y/n)";
         cin >> another;
